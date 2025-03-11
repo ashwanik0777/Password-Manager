@@ -9,7 +9,7 @@ This repository contains a front-end web application built using **React**. The 
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) CSS3
 
 ## 🌐 Live Demo
-Check out the live demo of the project [here](https://your-live-demo-link.com).
+Check out the live demo of the project [here](https://ashwanik0777.github.io/Password-Manager/).
 
 Feel free to explore, contribute, and provide feedback!
 
