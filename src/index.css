@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@layer components {
+  .mycontainer {
+    @apply container mx-auto px-10 py-10;
+  }
+  @screen md {
+    .mycontainer {
+      @apply px-10 py-10;
+    }
+  }
+}
